@@ -1,2 +1,19 @@
-# IT_Careers
-🌐 Fiches métiers IT — TSSR | AdminSys | DevOps   Un répertoire de fiches pratiques regroupant les principaux outils, compétences et objectifs liés aux métiers :   - 👨‍💻 Technicien Systèmes et Réseaux (TSSR)   - 🖥️ Administrateur Systèmes (AdminSys)   - ⚙️ DevOps Engineer  
+# 🛠️ IT Careers Tools
+
+Ce repository regroupe des fiches métiers avec les principaux **outils et compétences** utilisés par :
+
+- 👨‍💻 Technicien Systèmes et Réseaux (TSSR)  
+- 🖥️ Administrateur Systèmes (AdminSys)  
+- ⚙️ Ingénieur / Culture DevOps  
+
+Chaque fichier contient :  
+- Les outils essentiels  
+- Leur usage en entreprise  
+- Des objectifs concrets  
+
+📚 Objectif : préparer ma formation **TSSR** et montrer une vision d’évolution vers **AdminSys** et **DevOps**.
+
+
+
+
+
